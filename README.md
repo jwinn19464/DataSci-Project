@@ -14,6 +14,11 @@
    ```bash
    git pull origin main
    ```
+4. Create a branch called main
+   ```bash
+   git checkout main
+   ```
+   
 # Pushing changes to GitHub
 1. Add the file to the staging.
    ```bash
