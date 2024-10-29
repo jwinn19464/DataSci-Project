@@ -18,7 +18,7 @@ Do this to get the latest version before you start working on it.
    ```bash
    git pull
    ```
-   If you are not on the main branch, this command can be used to pull the changes:
+   If you are not on the main branch, this command can be used to pull the changes: (Not recommended, just stick to main)
    ```git
    git pull origin main
    ```
