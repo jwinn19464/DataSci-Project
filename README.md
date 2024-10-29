@@ -14,3 +14,16 @@
    ```bash
    git pull origin main
    ```
+# Pushing changes to GitHub
+1. Add the file to the staging.
+   ```bash
+   git add file_name
+   ```
+2. Put in a commit message to label the commit
+   ```bash
+   git commit -m "commit message"
+   ```
+3. Push changes to GitHub
+   ```bash
+   git push -u origin main
+   ```
