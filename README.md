@@ -15,9 +15,9 @@
    ```
 4. Pull changes from online.
 Do this to get the latest version before you start working on it.
-```bash
-git pull origin main
-```
+   ```bash
+   git pull origin main
+   ```
 
    
 # Pushing changes to GitHub
