@@ -10,9 +10,9 @@
    git checkout -b new-branch-name
    ```
 3. Push branch to GitHub
-  ```bash
+   ```bash
    git push -u origin branch-name
-  ```
+   ```
    
 # Pushing changes to GitHub
 1. Add the file to the staging.
