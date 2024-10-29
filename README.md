@@ -1,27 +1,18 @@
 # DataSci-Project
 
 # Getting Started
-1. Initialize a Git repo in the project directory in the local machine.
+1. Clone the repository
    ```bash
-   git init
+   git clone https://github.com/jwinn19464/DataSci-Project.git
    ```
-2. Connect local repository to GitHub repo online.
+2. Create a new branch to avoid conflicts
    ```bash
-   git remote add origin https://github.com/jwinn19464/DataSci-Project.git
+   git checkout -b new-branch-name
    ```
-3. Create a branch called main
-   ```bash
-   git checkout main
-   ```
-4. Pull changes from online.
-Do this to get the latest version before you start working on it.
-   ```bash
-   git pull
-   ```
-   If you are not on the main branch, this command can be used to pull the changes: (Not recommended, just stick to main)
-   ```git
-   git pull origin main
-   ```
+3. Push branch to GitHub
+  ```bash
+   git push -u origin branch-name
+  ```
    
 # Pushing changes to GitHub
 1. Add the file to the staging.
@@ -34,5 +25,5 @@ Do this to get the latest version before you start working on it.
    ```
 3. Push changes to GitHub
    ```bash
-   git push -u origin main
+   git push origin branch-name
    ```
