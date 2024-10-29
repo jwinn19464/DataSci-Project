@@ -5,6 +5,7 @@ Our objective is to utilize machine learning to identify patterns and factors th
 Using this dataset, we aim to build a powerful machine learning model that accurately predicts the likelihood of loan defaults. By understanding the hidden relationships between the demographic of borrowers and default risks, our model will help financial institutions allocate their lending resources more efficiently, which in turn, will minimize losses and maximize profits through more precise risk assessments.
 
 Link to Dataset
+
 [Loan Default Prediction Dataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
 
 # Getting Started
