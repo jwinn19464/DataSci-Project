@@ -9,15 +9,16 @@
    ```bash
    git remote add origin https://github.com/jwinn19464/DataSci-Project.git
    ```
-3. Pull changes from online.
-   Do this to get the latest version before you start working on it.
-   ```bash
-   git pull origin main
-   ```
-4. Create a branch called main
+3. Create a branch called main
    ```bash
    git checkout main
    ```
+4. Pull changes from online.
+Do this to get the latest version before you start working on it.
+```bash
+git pull origin main
+```
+
    
 # Pushing changes to GitHub
 1. Add the file to the staging.
