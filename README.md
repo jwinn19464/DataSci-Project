@@ -16,9 +16,12 @@
 4. Pull changes from online.
 Do this to get the latest version before you start working on it.
    ```bash
+   git pull
+   ```
+   If you are not on the main branch, this command can be used to pull the changes:
+   ```git
    git pull origin main
    ```
-
    
 # Pushing changes to GitHub
 1. Add the file to the staging.
